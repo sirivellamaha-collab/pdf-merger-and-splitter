@@ -1,3 +1,3 @@
-APP_TITLE = 'PDF Merger & Splitter Pro'
+APP_TITLE = 'PDF Merger & Splitter '
 # Default window size 
 WINDOW_SIZE = '900x600'
