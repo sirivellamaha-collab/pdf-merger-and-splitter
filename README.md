@@ -2,7 +2,7 @@
 Intern ID: CITS3409
 Full Name: Mahalakshmi
 No. of Weeks: 4 Weeks
-Project Name: PDF Merger & Splitter Pro
+Project Name: PDF Merger & Splitter
 
 ## Project Scope
 
