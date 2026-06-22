@@ -6,7 +6,7 @@ Project Name: PDF Merger & Splitter
 
 ## Project Scope
 
-PDF Merger & Splitter Pro is a desktop application developed using Python 3.10.11. This project helps users combine multiple PDF files into a single PDF and split PDF files into separate pages. The main goal of this project is to make basic PDF management easier through a simple graphical user interface.
+PDF Merger & Splitter is a desktop application developed using Python 3.10.11. This project helps users combine multiple PDF files into a single PDF and split PDF files into separate pages. The main goal of this project is to make basic PDF management easier through a simple graphical user interface.
 
 ## Project Description
 
@@ -49,7 +49,7 @@ This repository contains:
 
 ## Project Structure
 
-PDF_Merger_Splitter_Pro
+PDF_Merger_Splitter
 
 src
 
